@@ -176,6 +176,9 @@ footer {
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
+  #profile img{
+    max-height: 118px;
+  }
 }
 
 /* animation */
